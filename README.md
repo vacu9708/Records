@@ -2,7 +2,7 @@ This page showcases projects & studies I've worked on
 
 ## [Practicing and understanding Board Support Package through Raspberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
 - Practiced BSP by installing a custom Linux built with **Yocto** onto a Raspberry pi
-  - Added and tested real time video streaming and communication via MQTT
+  - Added and tested real time video streaming
 - Analyzed the Raspberry pi BSP to understand how BSPs work
 
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
