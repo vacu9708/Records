@@ -37,12 +37,6 @@ This page showcases projects & studies I've worked on
 <img src="https://github.com/user-attachments/assets/ea4efdd1-214a-42f8-a013-57a96649e3bc" width="60%">
 <img src="https://github.com/user-attachments/assets/3b353b39-a86b-4b26-a542-1461cf3495f4" width="60%">
 
-## [Finding the value of Pi](https://github.com/vacu9708/Algorithm/tree/main/Related%20to%20math/Find%20Pi)
-<img src="https://github.com/user-attachments/assets/5e1ea7f1-d670-4391-b8bb-a37d5c4182af" width="60%"><br>
-
-## [Gaussian elimination](https://github.com/vacu9708/Algorithm/tree/main/Related%20to%20math/Gaussian%20elimination)
-<img src="https://github.com/user-attachments/assets/50267ab2-cdbd-4ae1-836c-1982e99936e1" width="60%"><br>
-
 ## [Inter Process Communication](https://github.com/vacu9708/Study-records/tree/main/Computer%20science/Operating%20system/Inter-Process-Communication)
 ![image](https://github.com/user-attachments/assets/125b91aa-bf73-4217-ae6d-6cb12f7e492d)
 
