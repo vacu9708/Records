@@ -18,6 +18,8 @@ This page showcases projects & studies I've worked on
 
 ## [Studying how computer memory works](https://github.com/vacu9708/Game-hacking) `2024/11 - 2024/12`
 <img src="https://github.com/user-attachments/assets/d4a40ab2-8d29-4d0e-8c65-48245d5bd141" width="70%"><br>
+![image](https://github.com/user-attachments/assets/fa9eff64-66f5-4359-9bd5-530b5c28de2d)
+
 - Studied how memory works by researching how to bypass video games' security mechanisms, track enemy positions, and draw rectangles around them.
 
 ## [Webpage update notifier](https://github.com/vacu9708/Information_notifier) `2022/06~2022/07`
