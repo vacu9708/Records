@@ -22,6 +22,9 @@ This page showcases projects & studies I've worked on
 
 - Studied how memory works by researching how to bypass video games' security mechanisms, track enemy positions, and draw rectangles around them.
 
+## [Inter Process Communication](https://github.com/vacu9708/Study-records/tree/main/Computer%20science/Operating%20system/Inter-Process-Communication)
+![image](https://github.com/user-attachments/assets/125b91aa-bf73-4217-ae6d-6cb12f7e492d)
+
 ## [Webpage update notifier](https://github.com/vacu9708/Information_notifier) `2022/06~2022/07`
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/4efa38a6-52f3-44a1-b0a0-bc1e4a9b369a" width="60%"><br>
 - Developed a program sends notifications each time new information is uploaded to specified webpages.
@@ -36,7 +39,3 @@ This page showcases projects & studies I've worked on
 ## [Basic machine learning](https://github.com/vacu9708/Machine-learning/tree/main/Foundations%20of%20machine%20learning)
 <img src="https://github.com/user-attachments/assets/ea4efdd1-214a-42f8-a013-57a96649e3bc" width="60%">
 <img src="https://github.com/user-attachments/assets/3b353b39-a86b-4b26-a542-1461cf3495f4" width="60%">
-
-## [Inter Process Communication](https://github.com/vacu9708/Study-records/tree/main/Computer%20science/Operating%20system/Inter-Process-Communication)
-![image](https://github.com/user-attachments/assets/125b91aa-bf73-4217-ae6d-6cb12f7e492d)
-
