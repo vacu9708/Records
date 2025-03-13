@@ -10,8 +10,8 @@
 The number of * means how frequently I used the skill.
 - **OS:** Linux[\*\*\*], Android[\*]
 - **Programming:** C/C++[\*\*\*], Python[\*\*\*], Kotlin[\*]
-  - Linux device driver[**]
-- **Tools:** GDB[*], Visual modeling(drawio, plantUML)[***], Yocto[**], Docker[*], Shell script[**], Git[***]
+  - Linux device driver[\*\*]
+- **Tools:** GDB[\*], Visual modeling(drawio, plantUML)[\*\*\*], Yocto[\*\*], Docker[\*], Shell script[\*\*], Git[\*\*\*]
 
 # Personal works
 ## [Practicing and understanding Linux BSP through Raspberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
