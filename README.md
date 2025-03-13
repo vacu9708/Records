@@ -54,13 +54,13 @@ The number of * means how frequently I used the skill.
 <img src="https://github.com/user-attachments/assets/3b353b39-a86b-4b26-a542-1461cf3495f4" width="60%">
 
 # Company works
-## Embedded BSP intern - at Coasia, nexel
+## Embedded BSP intern - at Coasia, nexell
 (December 2023 – March 2024)
 - Studied core concepts in embedded SW including data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
 - Studied bootloader development and U\_BOOT\_CMD implementation.
 - Explored Linux kernel and device driver development.
 
-## Embedded BSP engineer - at Coasia, nexel
+## Embedded BSP engineer - at Coasia, nexell
 (March 2024 – Present)
 
 ### Contributions
