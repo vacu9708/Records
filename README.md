@@ -1,13 +1,19 @@
 # Index
+- [Skills I experienced](#Skills-I-experienced)
 - [Personal works](#Personal-works)
 - [Company works](#Company-works)
   - [Embedded BSP intern](#Embedded-BSP-intern)
   - [Embedded BSP engineer](#Embedded-BSP-engineer)
-    - [Skills I experienced](#Skills-I-experienced)
     - [Contributions](#Contributions)
 
-# Personal works
+# Skills I experienced
+The number of * means how frequently I used the skill.
+- **OS:** Linux[\*\*\*], Android[\*]
+- **Programming:** C/C++[\*\*\*], Python[\*\*\*], Kotlin[\*]
+  - Linux device driver[**]
+- **Tools:** GDB[*], Visual modeling(drawio, plantUML)[***], Yocto[**], Docker[*], Shell script[**], Git[***]
 
+# Personal works
 ## [Practicing and understanding Linux BSP through Raspberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
 - Practiced Linux BSP by installing a custom Linux built with **Yocto** onto a Raspberry pi
 - Analyzed the Raspberry pi BSP to understand how BSPs work
@@ -48,13 +54,6 @@
 <img src="https://github.com/user-attachments/assets/3b353b39-a86b-4b26-a542-1461cf3495f4" width="60%">
 
 # Company works
-## Skills I experienced
-The number of * means how frequently I used the skill.
-- **OS:** Linux[\*\*\*], Android[\*]
-- **Programming:** C/C++[\*\*\*], Python[\*\*\*], Kotlin[\*]
-  - Linux device driver[**]
-- **Tools:** GDB[*], Visual modeling(drawio, plantUML)[***], Yocto[**], Docker[*], Shell script[**], Git[***]
-
 ## Embedded BSP intern
 **Coasia, nexell** (December 2023 – March 2024)
 - Learned core concepts in embedded software including data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
