@@ -1,10 +1,10 @@
 # Index
-- [Skills I experienced](#Skills-I-experienced)
-- [Personal works](#Personal-works)
-- [Company works](#Company-works)
-  - [Embedded BSP intern at Coasia, nexell](#embedded-bsp-intern---at-Coasia-nexell)
-  - [Embedded BSP engineer at Coasia, nexell](#Embedded-BSP-engineer---at-Coasia-nexell)
-    - [Contributions](#Contributions)
+- [1. Skills I experienced](#Skills-I-experienced)
+- [2. Personal works](#Personal-works)
+- [3. Company works](#Company-works)
+  - [3.1. Embedded BSP intern at Coasia, nexell](#embedded-bsp-intern---at-Coasia-nexell)
+  - [3.2. Embedded BSP engineer at Coasia, nexell](#Embedded-BSP-engineer---at-Coasia-nexell)
+    - [3.2.1. Contributions](#Contributions)
 
 # Skills I experienced
 The number of * means how frequently I used the skill.
