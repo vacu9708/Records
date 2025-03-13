@@ -2,8 +2,8 @@
 - [Skills I experienced](#Skills-I-experienced)
 - [Personal works](#Personal-works)
 - [Company works](#Company-works)
-  - [Embedded BSP intern at Coasia, nexell](#embedded-bsp-intern---at-coasia-nexell)
-  - [Embedded BSP engineer at Coasia, nexell](#Embedded-BSP-engineer-\--at-Coasia,-nexell)
+  - [Embedded BSP intern at Coasia, nexell](#embedded-bsp-intern---at-Coasia-nexell)
+  - [Embedded BSP engineer at Coasia, nexell](#Embedded-BSP-engineer---at-Coasia-nexell)
     - [Contributions](#Contributions)
 
 # Skills I experienced
