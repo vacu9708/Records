@@ -48,24 +48,24 @@
 <img src="https://github.com/user-attachments/assets/3b353b39-a86b-4b26-a542-1461cf3495f4" width="60%">
 
 # Company works
-## Embedded BSP Intern
-**Coasia, nexell** (December 2023 – March 2024)
-- Learned core concepts in embedded software including data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
-- Studied bootloader development and U\_BOOT\_CMD implementation.
-- Explored Linux kernel and device driver development.
-
----
-
-## Embedded BSP Engineer
-**Coasia, nexell** (March 2024 – Present)
-
-### Skills I experienced: (Number of * means how frequently I used the skill)
+## Skills I experienced
+The number of * means how frequently I used the skill.
 - **OS:** Linux[\*\*\*], Android[\*]
 - **Programming:** C/C++[\*\*\*], Python[\*\*\*], Kotlin[\*]
   - Linux device driver[**]
 - **Tools:** GDB[*], Visual modeling(drawio, plantUML)[***], Yocto[**], Docker[*], Shell script[**], Git[***]
 
-### Key Projects and Contributions: (Focused on the camera of the BSP)
+## Embedded BSP intern
+**Coasia, nexell** (December 2023 – March 2024)
+- Learned core concepts in embedded software including data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
+- Studied bootloader development and U\_BOOT\_CMD implementation.
+- Explored Linux kernel and device driver development.
+
+## Embedded BSP engineer
+**Coasia, nexell** (March 2024 – Present)
+
+### Contributions
+Focused on the camera of the BSP
 - **AI Object Detection Support:**
     - Created a shell script to switch camera device drivers without requiring rebuilds or reboots.
     - Used OpenCV to align streaming windows in Wayland when using Gstreamer.
