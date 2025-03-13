@@ -51,7 +51,7 @@
 ## Embedded BSP Engineer
 **Coasia, nexell** (March 2024 – Present)
 
-### Skills I experienced:** (Number of * means how frequently I used the skill)
+### Skills I experienced: (Number of * means how frequently I used the skill)
 - **OS:** Linux[\*\*\*], Android[\*]
 - **Programming:** C/C++[\*\*\*], Python[\*\*\*], Kotlin[\*]
   - Linux device driver[**]
