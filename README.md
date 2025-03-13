@@ -96,7 +96,7 @@ Focused on the camera of the BSP
 - **Code Analysis and Presentations:**
     
     - Analyzed camera middleware, color space conversion middleware, and Android External View System code using block and sequence diagrams.
-    - Utilized VSCode call hierarchy, reference searches, and GDB to understand code flow and image buffer storage (YUYV, RGBA formats).
+    - Utilized VSCode call hierarchy, reference searches, and GDB to understand code flow.
 - **Unit Testing for Camera Device Driver:**
     
     - Developed unit tests with KUnit and gcov for the camera device driver.
