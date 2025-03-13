@@ -56,7 +56,7 @@ The number of * means how frequently I used the skill.
 # Company works
 ## Embedded BSP intern - at Coasia, nexell
 (December 2023 – March 2024)
-- Studied core concepts in embedded SW including data structures, computer architecture, operating systems, ARM architecture, Yocto, and Docker.
+- Studied core concepts in embedded SW including data structures, computer architecture, operating systems, Yocto, and Docker.
 - Studied bootloader development and U\_BOOT\_CMD implementation.
 - Explored Linux kernel and device driver development.
 
