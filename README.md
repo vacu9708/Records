@@ -1,5 +1,29 @@
 # Index
-[Personal works](#Personal-works)
+- [Personal works](#personal-works)
+  - [Practicing and understanding Linux BSP through Raspberry pi](#practicing-and-understanding-linux-bsp-through-raspberry-pi)
+  - [Automatic parking lot guide using AI object tracking](#automatic-parking-lot-guide-using-ai-object-tracking)
+  - [Guitar tuner](#guitar-tuner)
+  - [Studying how computer memory works](#studying-how-computer-memory-works)
+  - [Inter Process Communication](#inter-process-communication)
+  - [Webpage update notifier](#webpage-update-notifier)
+  - [Video conference](#video-conference)
+  - [Newton-Rapson method](#newton-rapson-method)
+  - [Basic machine learning](#basic-machine-learning)
+
+- [Company works](#company-works)
+  - [Embedded BSP Intern](#embedded-bsp-intern)
+  - [Embedded BSP Engineer](#embedded-bsp-engineer)
+    - [Skills I experienced](#skills-i-experienced)
+    - [Key Projects and Contributions](#key-projects-and-contributions)
+      - [AI Object Detection Support](#ai-object-detection-support)
+      - [Technical Support for Camera Software](#technical-support-for-camera-software)
+      - [BSP Validation and Debugging](#bsp-validation-and-debugging)
+      - [Porting Pi Camera to ExynosAuto](#porting-pi-camera-to-exynosauto)
+      - [ISP Tuning Support for Naver Labs Cameras](#isp-tuning-support-for-naver-labs-cameras)
+      - [Android Camera Sample App Development](#android-camera-sample-app-development)
+      - [Code Analysis and Presentations](#code-analysis-and-presentations)
+      - [Unit Testing for Camera Device Driver](#unit-testing-for-camera-device-driver)
+      - [Additional](#additional)
 
 # Personal works
 
