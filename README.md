@@ -1,22 +1,12 @@
 # Index
-- [1. Skills I experienced](#Skills-I-experienced)
+- [1. Open source contributions](#Open-source-contributions)
 - [2. Personal works](#Personal-works)
 - [3. Company works](#Company-works)
   - [3.1. Embedded BSP intern at Coasia, nexell](#embedded-bsp-intern---at-Coasia-nexell)
   - [3.2. Embedded BSP engineer at Coasia, nexell](#Embedded-BSP-engineer---at-Coasia-nexell)
     - [3.2.1. Contributions](#Contributions)
 
-# Skills I experienced
-The number of * means how frequently I used the skill.
-- **OS:** Linux[\*\*\*], Android[\*]
-- **Programming:** C/C++[\*\*\*], Python[\*\*\*], Kotlin[\*]
-  - Linux device driver[\*\*]
-- **Tools:** GDB[\*], Visual modeling(drawio, plantUML)[\*\*\*], Yocto[\*\*], Docker[\*], Shell script[\*\*], Git[\*\*\*]
-
-# Personal works
-## [Practicing and understanding Linux BSP through Raspberry pi](https://github.com/vacu9708/Raspberry-pi) `2025/02 - ongoing`
-- Practiced Linux BSP by installing a custom Linux built with **Yocto** onto a Raspberry pi
-- Analyzed the Raspberry pi BSP to understand how BSPs work
+# Open source contributions
 
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
 <img src="https://github.com/user-attachments/assets/5f891cd7-bb45-49bc-b7d3-094bab260ea1" width="60%"><br>
