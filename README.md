@@ -8,6 +8,7 @@
 
 # Open source contributions
 
+# Personal works
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
 <img src="https://github.com/user-attachments/assets/5f891cd7-bb45-49bc-b7d3-094bab260ea1" width="60%"><br>
 -	Developed a system that tracks cars and displays parking information on LEDs to reduce wasted time when searching for parking spaces.
