@@ -37,13 +37,6 @@
 <img src="https://github.com/vacu9708/WHO-AM-I/assets/67142421/17c4c315-af24-4067-8def-6413399343e0" width="60%"><br>
 - Developed a web page using JavaScript and WebRTC where three or more participants can have group chat and video calls
 
-## [Newton-Rapson method](https://github.com/vacu9708/Algorithm/tree/main/Related%20to%20math/Newton-raphson%20method)
-<img src="https://github.com/user-attachments/assets/e363a69b-3f88-470d-8a04-41bd183a4e49" width="60%"><br>
-
-## [Basic machine learning](https://github.com/vacu9708/Machine-learning/tree/main/Foundations%20of%20machine%20learning)
-<img src="https://github.com/user-attachments/assets/ea4efdd1-214a-42f8-a013-57a96649e3bc" width="60%">
-<img src="https://github.com/user-attachments/assets/3b353b39-a86b-4b26-a542-1461cf3495f4" width="60%">
-
 # Company works
 ## Embedded BSP intern - at Coasia, nexell
 (December 2023 – March 2024)
