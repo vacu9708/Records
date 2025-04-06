@@ -1,5 +1,5 @@
 # Open source contributions
-[Apache TVM](https://github.com/apache/tvm)
+[Apache TVM](https://github.com/vacu9708/tvm)
 
 # Personal works
 ## [Automatic parking lot guide using AI object tracking](https://github.com/vacu9708/Smart-CCTV) `2022/05 - 2022/12`
